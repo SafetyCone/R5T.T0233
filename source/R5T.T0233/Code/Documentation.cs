@@ -8,5 +8,9 @@ namespace R5T.T0233
 	/// </summary>
 	public static class Documentation
 	{
+        /// <summary>
+        /// Left unspecified is whether the project file is a .csproj (C#), .vbproj (Visual Basic), .fsproj (F#), or other .NET language MSBuild project file.
+        /// </summary>
+        public static readonly object NETLanguageLeftUnspecified;
 	}
 }
